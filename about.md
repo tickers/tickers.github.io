@@ -5,8 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you and what you do
-
+Mostly I just love to dig through installations
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
