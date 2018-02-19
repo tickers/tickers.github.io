@@ -4,8 +4,8 @@ title: You're up and running!
 published: true
 ---
 
-Testing the Blogging
+What's Next after you get everything running
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+ 
 
-Testing the blogging steps
+Testing your Kuber Mad skillz
