@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Some information about you and what you do
 
 ### More Information
 
