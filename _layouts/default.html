@@ -10,8 +10,7 @@ site.name }} â&#8364;&#8220; {{ site.description }}</title>
   
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="%7B%7B%20site.baseurl%20%7D%7D/feed.xml">
 
-</head><body>
-{% include meta.html %}<!--[if lt IE 9]>
+</head><body>{% include meta.html %}<!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]--><!--Working on the railroad-->
 <div class="wrapper-masthead">
@@ -22,6 +21,7 @@ site.name }}</a></h1>
 <p class="site-description">{{ site.description }}</p>
 </div>
 <nav> <a href="%7B%7B%20site.baseurl%20%7D%7D/">Blog</a> <a href="%7B%7B%20site.baseurl%20%7D%7D/about">About</a> </nav> </div>
+
 </div>
 
 <div id="main" role="main" class="container"> {{ content }} </div>
@@ -32,5 +32,4 @@ svg-icons.html %} </footer> </div>
 </div>
 
 {% include analytics.html %}
-
 </body></html>
